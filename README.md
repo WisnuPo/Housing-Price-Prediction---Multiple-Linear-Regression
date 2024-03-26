@@ -1,3 +1,3 @@
 # Housing_Price_Prediction
 
-## Proyek ini akan membuat sebuah model yang akan memprediksi harga rumah berdasarkan beberapa kriteria, seperti luas rumah, jumlah kamar tidur, dan jumlah kamar mandi. Dataset didapatkan dari Kaggle.com dengan link sebagai berikut https://www.kaggle.com/datasets/muhammadbinimran/housing-price-prediction-data. Terima kasih kepada banyak pihak yang sudah membantu saya dalam menyelesaikan proyek ini.
+### This project will create a model that predicts home prices based on several criteria, such as home size, number of bedrooms, and number of bathrooms. The dataset was obtained from Kaggle.com with the following link https://www.kaggle.com/datasets/muhammadbinimran/housing-price-prediction-data. Thank you to the many parties who have helped me in completing this project.
